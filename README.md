@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  Passionate software engineer with a deep love for C++ and Python, thriving independently and collaboratively in high-stakes trading environments. Experienced in high-performance market data handling, exchange integrations, and algorithmic trading across traditional and crypto markets.
-</p>
-
-<p align="center">
   <a href="https://lauchunhin.com">
     <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio" height="30">
   </a>
