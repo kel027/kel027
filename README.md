@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Passionate software engineer with a deep love for C++ and Python, thriving independently and collaboratively in high-stakes trading environments. Experienced in high-performance market data handling, exchange integrations, and algorithmic trading across traditional and crypto markets. Keen to join a challenging, tech-focused workspace that prioritizes code quality.
+  Passionate software engineer with a deep love for C++ and Python, thriving independently and collaboratively in high-stakes trading environments. Experienced in high-performance market data handling, exchange integrations, and algorithmic trading across traditional and crypto markets.
 </p>
 
 <p align="center">
