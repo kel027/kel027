@@ -4,13 +4,13 @@
 
 <p align="center">
   <a href="https://lauchunhin.com">
-    <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio" height="30">
+    <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:kelvinlau1357@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-red?style=flat&logo=gmail&logoColor=white" alt="Email" height="30">
+    <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/kelvin-lau-251917316">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="30">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
