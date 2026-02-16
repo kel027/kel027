@@ -3,9 +3,6 @@
 </p>
 
 <p align="center">
-  <a href="https://lauchunhin.com">
-    <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
   <a href="mailto:kelvinlau1357@gmail.com">
     <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
